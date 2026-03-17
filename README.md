@@ -1,1 +1,2 @@
-# my-first-code
+# my-first-code 
+Hello GitHub! This is my first project.
